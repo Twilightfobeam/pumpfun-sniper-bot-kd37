@@ -1,4 +1,4 @@
-# 
+# professional Executor for pump.fun sniper bot | stop-loss & honeypot-detection is the best pump.fun sniper bot, featuring stop-loss and honeypot-detection. Fast, smart, and
 
 
 
